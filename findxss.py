@@ -10,7 +10,7 @@ print(Fore.CYAN + """
 /_/|_/____/____/  /_/   /_/_/ /_/\__,_/
 """)
 print(Fore.RED + "Web URL XSS test script\n")
-print(Fore.BLUE + "Author = Saep\n")
+print(Fore.BLUE + "Author = Furkan Kerem\n")
 print(Fore.GREEN + "Version 0.1\n")
 
 payload = "<script>alert(:D)</script>"
